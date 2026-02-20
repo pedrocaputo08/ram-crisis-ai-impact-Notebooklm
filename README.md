@@ -11,6 +11,8 @@ O estudo investiga como o crescimento acelerado da Inteligência Artificial est�
 
 O objetivo foi desenvolver habilidades de pesquisa, análise de dados tecnológicos e organização de conhecimento técnico utilizando o NotebookLM como ferramenta de apoio.
 
+[![Abrir Notebook](https://img.shields.io/badge/Acessar-NotebookLM-blue)](https://notebooklm.google.com/notebook/a5da552d-cc20-4a87-afbd-9c85c4bc89fb)
+
 ---
 Visual do Notebook
 ---
